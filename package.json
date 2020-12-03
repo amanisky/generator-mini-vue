@@ -1,0 +1,14 @@
+{
+  "name": "generator-mini-vue",
+  "version": "0.1.0",
+  "description": "yeoman mini vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["yeoman", "mini", "vue"],
+  "author": "amanisky",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
